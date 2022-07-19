@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevikalyanDas currently studying masters in Visual Computing
-- 👀 I’m interested in Computer Vision, Image Processing and Machine Learning
+- 👀 I’m interested in Computer Vision, Computer Graphics and Machine Learning
 - 🌱 Always learning to upgrade myself and my surroundings to a better version.
 - 💻 Currently working as Research Assistant at ANNA C-Trus in Flensburg, Germany.
 
