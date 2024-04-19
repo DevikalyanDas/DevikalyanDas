@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevikalyanDas currently studying masters in Visual Computing
+- 👋 Hi, I’m @DevikalyanDas, a graduate student in Visual Computing
 - 👀 I’m interested in Computer Vision, Computer Graphics and Machine Learning
 - 🌱 Always learning to upgrade myself and my surroundings to a better version.
 
